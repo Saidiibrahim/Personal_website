@@ -4,15 +4,13 @@ authors:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master of Biotechnology(Biomedical)
+    institution: The University of Adelaide
+    year: 2018
+  - course: Bachelor of Science(Biomedical Science)
+    institution: The University of Adelaide
+    year: 2016
+    
 email: ""
 interests:
 - Statistics
@@ -31,13 +29,16 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/IbrahimSaidi94
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-4292-7141
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Saidiibrahim
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ibrahimsaidi/
 superuser: true
 title: Ibrahim Saidi
 user_groups:
@@ -45,4 +46,4 @@ user_groups:
 - Visitors
 ---
 
-I am a research assistant at [The University of South Australia](https://www.unisa.edu.au/) and a data science enthusiast. 
+I am a research assistant at [The University of South Australia](https://www.unisa.edu.au/) and a data science enthusiast.
