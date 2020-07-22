@@ -39,6 +39,9 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/ibrahimsaidi/
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@ibrahim.aka.ajax
 superuser: true
 title: Ibrahim Saidi
 user_groups:
@@ -46,4 +49,4 @@ user_groups:
 - Visitors
 ---
 
-I am a research assistant at [The University of South Australia](https://www.unisa.edu.au/) and a data science enthusiast.
+Hi! I'm a research assistant at [The University of South Australia](https://www.unisa.edu.au/) and an aspiring data scietinst. I learn data science using various online platforms such as [Datacamp](www.datacamp.com), [Towards Data Science](https://towardsdatascience.com/) and [StackOverflow](https://stackoverflow.com/). Through Trial-and-Error, I apply what I learn by developing projects. I'm originally from Congo DRC but I currently live in Australia with my family.
