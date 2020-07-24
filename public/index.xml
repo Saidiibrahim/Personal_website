@@ -55,14 +55,6 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/projects/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Example Talk</title>
       <link>/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
@@ -558,6 +550,14 @@ Three
       <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/projects/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/projects/</guid>
       <description></description>
     </item>
     
