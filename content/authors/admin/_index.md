@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed HR analytics and social network analysis.
 education:
   courses:
   - course: Master of Biotechnology(Biomedical)
@@ -49,4 +49,4 @@ user_groups:
 - Visitors
 ---
 
-Hi! I'm a research assistant at [The University of South Australia](https://www.unisa.edu.au/) and an aspiring data scietinst. I learn data science using various online platforms such as [Datacamp](www.datacamp.com), [Towards Data Science](https://towardsdatascience.com/) and [StackOverflow](https://stackoverflow.com/). Through Trial-and-Error, I apply what I learn by developing projects. I'm originally from Congo DRC but I currently live in Australia with my family.
+Hi! I'm a research assistant at [The University of South Australia](https://www.unisa.edu.au/) and an aspiring data scientist. I learn data science using various online platforms such as [Datacamp](www.datacamp.com), [Towards Data Science](https://towardsdatascience.com/) and [StackOverflow](https://stackoverflow.com/). Through Trial-and-Error, I apply what I learn by developing projects. I'm originally from Congo DRC but I currently live in Australia with my family. I'm a huge soccer fan :fire:, so don't hesitate to reach out to talk about data science or soccer :smiley:
