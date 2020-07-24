@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Blog"
-  url = "#posts"
+  url = "https://medium.com/@ibrahim.aka.ajax"
   weight = 40
 
 [[main]]
