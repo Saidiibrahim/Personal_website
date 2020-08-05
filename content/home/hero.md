@@ -24,8 +24,8 @@ title = "Hi, I'm Ibrahim"
   gradient_end = "#2b94c3"
   
   # Background image.
-   image = "trial.jpg"  # Name of image in `static/img/`.
-   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image = "trial2.jpg"  # Name of image in `static/img/`.
+   image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
    image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -51,8 +51,7 @@ title = "Hi, I'm Ibrahim"
   #label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" #data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+**Certified Data Analyst | Travel Enthusiast**
 
-Build **Anything** with Widgets
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+
