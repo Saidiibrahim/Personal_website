@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Hi, I'm Ibrahim"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-#hero_media = "hero-academic.jpg"
+#hero_media = "trial2.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -53,5 +53,7 @@ title = "Hi, I'm Ibrahim"
 
 **Certified Data Analyst | Travel Enthusiast**
 
+
+ <font size="2"> “If I have seen further it is by standing on the shoulders of Giants”— Isaac Newton</font> 
 
 
