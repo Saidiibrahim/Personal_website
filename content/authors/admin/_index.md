@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed HR analytics and social network analysis.
+bio: Research Assistant @ UniSA | Dataviz & Sport Analytics Enthusiast
 education:
   courses:
   - course: Master of Biotechnology(Biomedical)
@@ -13,11 +13,10 @@ education:
     
 email: ""
 interests:
-- Statistics
-- HR Analytics
 - Data Analysis
 - Data Visualisation
-- Online Education
+- Sports Analytics
+- Database Design & Admin 
 
 organizations:
 - name: The University of South Australia
@@ -49,4 +48,6 @@ user_groups:
 - Visitors
 ---
 
-Hi! I'm a research assistant at [The University of South Australia](https://www.unisa.edu.au/) and an aspiring data scientist. I learn data science using various online platforms such as [Datacamp](www.datacamp.com), [Towards Data Science](https://towardsdatascience.com/) and [StackOverflow](https://stackoverflow.com/). Through Trial-and-Error, I apply what I learn by developing projects. I'm originally from Congo DRC but I currently live in Australia with my family. I'm a huge soccer fan :fire:, so don't hesitate to reach out to talk about data science or soccer :smiley:
+I'm Ibrahim. I enjoy making Shiny apps, designing databases, analysing sports data, and helping others succeed by sharing my knowledge. 
+
+This site further details my [blog]("#blog") and projects. Don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/ibrahim-saidi-782587181/) or by [email]("#contact") :smiley:
