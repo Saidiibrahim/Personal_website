@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Technical Skills"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -18,31 +18,31 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%" 
+  description = "" 
   
   [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "100%"
+  description = ""
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "60%"
+  description = ""
 
   [[feature]]
   icon = "git-alt"
   icon_pack = "fab"
   name = "Git"
-  description = "70%"  
+  description = ""  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
