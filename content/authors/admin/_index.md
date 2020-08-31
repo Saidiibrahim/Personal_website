@@ -48,6 +48,6 @@ user_groups:
 - Visitors
 ---
 
-I'm Ibrahim. I enjoy making Shiny apps, designing databases, analysing sports data, and helping others succeed by sharing my knowledge. 
+I'm Ibrahim. I enjoy building user interfaces for technical computing, designing databases, analysing sports data :soccer:, and helping others succeed by sharing my knowledge. 
 
-This site further details my [blog]("#blog") and projects. Don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/ibrahim-saidi-782587181/) or by [email]("#contact") :smiley:
+This site further details my [blog](/post) and [projects](/projects). Don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/ibrahim-saidi-782587181/) or by [email](#contact). :smiley:
