@@ -9,9 +9,14 @@
   weight = 30
 
 [[main]]
-  name = "Blog"
+  name = "Medium"
   url = "https://medium.com/@ibrahim.aka.ajax"
   weight = 40
+  
+  [[main]]
+  name = "Blog"
+  url = "#posts"
+  weight = 50
 
 [[main]]
   name = "Contact"
