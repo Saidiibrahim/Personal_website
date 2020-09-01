@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Honours & Awards"
-subtitle = "A select list of data science courses I have completed"
+subtitle = "A select list of data science certificates I have completed"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,6 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Datacamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Data Analyst with R"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/track/0c3803c5c89a5ea32a10ec1631f4b3d857bc687a"
+  date_start = "2020-05-01"
+  date_end = ""
+  description = ""
+  
+  [[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Python Fundamentals"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/track/d2b469593c657b141dee161716e796489f4210bf"
+  date_start = "2020-01-01"
+  date_end = ""
+  description = ""
+  
+
+[[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
   title = "Network Analysis in R"
@@ -27,25 +48,6 @@ date_format = "Jan 2006"
   date_start = "2019-12-01"
   date_end = ""
   description = ""
-
-[[item]]
-  organization = "Datacamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Statistical Thinking in Python (Part 1)"
-  url = ""
-  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/a7529243213f582692b9dc4fd6e5b7cfaa931c46"
-  date_start = "2019-08-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Manipulating DataFrames with pandas"
-  url = ""
-  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/c0a04b106e3136b25efbc9369b2e656c6ba00f4e"
-  date_start = "2020-01-01"
-  date_end = ""
-  description = ""
 
 +++
