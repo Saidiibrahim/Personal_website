@@ -558,10 +558,66 @@ Three
     </item>
     
     <item>
-      <title>External Project</title>
+      <title>Dashboard</title>
+      <link>/project/app5/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/app5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>/project/app4/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/app4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tweeter Analyser</title>
+      <link>/project/app2/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/app2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Cloud</title>
+      <link>/project/app6/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/app6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Cloud</title>
+      <link>/project/app7/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/app7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Cloud</title>
+      <link>/project/app8/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/app8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Cloud</title>
       <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Cloud_2</title>
+      <link>/project/app3/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/app3/</guid>
       <description></description>
     </item>
     
