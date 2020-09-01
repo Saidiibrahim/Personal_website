@@ -32,6 +32,18 @@ subtitle = ""
    [[content.filter_button]]
     name = "Python"
     tag = "Python"
+    
+  [[content.filter_button]]
+    name = "Dash"
+    tag = "Dash"
+    
+  [[content.filter_button]]
+    name = "Tutorial"
+    tag = "Tutorial"
+    
+  [[content.filter_button]]
+    name = "Shiny"
+    tag = "Shiny"
   
   [[content.filter_button]]
     name = "Other"
@@ -49,7 +61,7 @@ subtitle = ""
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
