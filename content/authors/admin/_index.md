@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: R/Shiny Enthusiast
+bio: ""
 education:
   courses:
   - course: Master of Biotechnology(Biomedical)
@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: ""
   url: ""
-role: ""
+role: "R/Shiny enthusiast"
 social:
 - icon: envelope
   icon_pack: fas
