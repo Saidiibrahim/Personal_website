@@ -4,6 +4,7 @@ subtitle: 'Use R to make art and create imaginary flowers inspired by nature'
 author: "Ibrahim Saidi"
 date: 2020-11-15T21:13:14-05:00
 tags: ["R Markdown", "plot", "regression"]
+output: html_document
 ---
 
 
@@ -24,7 +25,7 @@ library(ggplot2)</code></pre>
 <h2>Warming up: drawing points on a circle</h2>
 <p>There are many ways to represent data with ggplot2: from simple scatter plots to more complex violin plots. The functions that start with geom_ define the type of plot. In this notebook, we will only work with geom_point() which plots points in two dimensions. We’ll need a dataset with two variables; let’s call them x and y.</p>
 <p>We’ll start by drawing 50 points on a circle of radius 1. As every (x, y) point should be in the unit circle, it follows that x² + y² = 1. We can get this using the super famous Pythagorean trigonometric identity which states that sin²(θ) + cos²(θ) = 1 for any real number θ.</p>
-<p><img src="/post/Draw Flowers Using Mathematics/Output_files/figure-html/part_2-1.png" width="672" /></p>
+<p><img src="index_files/figure-html/part_2-1.png" width="672" /></p>
 </div>
 <div id="make-it-harmonious-with-the-golden-angle" class="section level2">
 <h2>Make it harmonious with the Golden Angle</h2>
@@ -48,7 +49,7 @@ df &lt;- data.frame(t, x, y)
 # Make a scatter plot of points in a spiral
 p &lt;- ggplot(df, aes(x*t, y*t))
 p + geom_point()</code></pre>
-<p><img src="/post/Draw Flowers Using Mathematics/Output_files/figure-html/part_3-1.png" width="672" /></p>
+<p><img src="index_files/figure-html/part_3-1.png" width="672" /></p>
 </div>
 <div id="remove-everything-unnecessary" class="section level2">
 <h2>Remove everything unnecessary</h2>
@@ -69,7 +70,7 @@ p + geom_point() +
         axis.title = element_blank(),
         axis.text = element_blank(),
         axis.ticks = element_blank())</code></pre>
-<p><img src="/post/Draw Flowers Using Mathematics/Output_files/figure-html/part_4-1.png" width="672" /></p>
+<p><img src="index_files/figure-html/part_4-1.png" width="672" /></p>
 </div>
 <div id="a-bit-of-makeup-size-color-and-transparency" class="section level2">
 <h2>A bit of makeup: size, color and transparency</h2>
@@ -78,7 +79,7 @@ p + geom_point() +
 # size, transparency, and color of the points
 p &lt;- ggplot(df, aes(x*t, y*t))
 p + geom_point(size = 8, alpha = 0.5, color= &quot;darkgreen&quot;)</code></pre>
-<p><img src="/post/Draw Flowers Using Mathematics/Output_files/figure-html/part_5-1.png" width="672" /></p>
+<p><img src="index_files/figure-html/part_5-1.png" width="672" /></p>
 </div>
 <div id="play-with-aesthetics-the-dandelion" class="section level2">
 <h2>Play with aesthetics: the dandelion</h2>
@@ -89,7 +90,7 @@ p &lt;- ggplot(df, aes(x*t, y*t))
 p +  geom_point(aes(size = t), alpha = 0.5, 
                 color= &quot;darkgreen&quot;, shape = 8) +
 theme(legend.position = &quot;none&quot;)</code></pre>
-<p><img src="/post/Draw Flowers Using Mathematics/Output_files/figure-html/part_6-1.png" width="672" /></p>
+<p><img src="index_files/figure-html/part_6-1.png" width="672" /></p>
 </div>
 <div id="put-all-it-together-the-sunflower" class="section level2">
 <h2>Put all it together: the sunflower</h2>
@@ -101,7 +102,7 @@ p +  geom_point(aes(size = t), alpha = 0.5,
                 color= &quot;yellow&quot;, shape = 17) +
 theme(legend.position = &quot;none&quot;, 
       panel.background = element_rect(fill = &quot;darkmagenta&quot;))</code></pre>
-<p><img src="/post/Draw Flowers Using Mathematics/Output_files/figure-html/part_7-1.png" width="672" /></p>
+<p><img src="index_files/figure-html/part_7-1.png" width="672" /></p>
 </div>
 <div id="what-if-you-modify-the-angle" class="section level2">
 <h2>What if you modify the angle?</h2>
@@ -121,7 +122,7 @@ p +  geom_point(aes(size = t), alpha = 0.5,
                 color= &quot;yellow&quot;, shape = 17) +
 theme(legend.position = &quot;none&quot;, 
       panel.background = element_rect(fill = &quot;darkmagenta&quot;))</code></pre>
-<p><img src="/post/Draw Flowers Using Mathematics/Output_files/figure-html/part_8-1.png" width="672" /></p>
+<p><img src="index_files/figure-html/part_8-1.png" width="672" /></p>
 </div>
 <div id="all-together-now-imaginary-flowers" class="section level2">
 <h2>All together now: imaginary flowers</h2>
@@ -145,5 +146,5 @@ p + geom_point(size = 80, alpha = 0.1, shape = 1, color = &quot;blue&quot;)+
         axis.ticks=element_blank(),
         axis.title=element_blank(),
         axis.text=element_blank())</code></pre>
-<p><img src="/post/Draw Flowers Using Mathematics/Output_files/figure-html/part_9-1.png" width="672" /></p>
+<p><img src="index_files/figure-html/part_9-1.png" width="672" /></p>
 </div>
