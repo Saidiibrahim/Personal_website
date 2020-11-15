@@ -4,7 +4,6 @@ subtitle: 'Use R to make art and create imaginary flowers inspired by nature'
 author: "Ibrahim Saidi"
 date: 2020-11-15T21:13:14-05:00
 tags: ["R Markdown", "plot", "regression"]
-output: html_document
 ---
 
 
@@ -32,7 +31,7 @@ library(ggplot2)</code></pre>
 <p>Plants arrange their leaves in spirals. A spiral is a curve which starts from the origin and moves away from the origin as it revolves around it. In the plot above all our points are the same distance from the origin. A simple way to arrange them in a spiral is to multiply x and y by a factor which increases for each point. We could use t as that factor, as it meets these conditions, but we will do something more harmonious. We will use the <a href="https://en.wikipedia.org/wiki/Golden_angle">Golden Angle</a>:</p>
 <p>Golden Angle = π(3 − √5)</p>
 <p>This number is inspired by the Golden Ratio, one of the most famous numbers in the history of mathematics. Imagine that you have a circumference and you break up it into two arcs with lengths a and b, with a&gt;b (an arc is a portion of the circumference). The angle that breaks the circle so that a/b=(a+b)/a is called the Golden Angle. In other words: the Golden Angle breaks up a circle so that the ratio of the big arc to the little arc is the Golden Ratio. This image (from Wikipedia) illustrates the previous definition:</p>
-<p><img src="/Users/ibrahim_saidi/Desktop/GitHub%20Repositories/RPubs/Phyllotaxis_Draw%20Flowers%20Using%20Mathematics/datasets/Golden_Angle.png" /></p>
+<p><img src="Golden_Angle.png" /></p>
 <p>The Golden Angle is the angle subtended by the smaller (red) arc. Both the Golden Ratio and the Golden Angle appear in unexpected places in nature. Apart of flower petals and plant leaves, you’ll find them in seed heads, pine cones, sunflower seeds, shells, spiral galaxies, hurricanes, etc.</p>
 <p>It’s time to spiralize!</p>
 <pre class="r"><code># Define the number of points

@@ -54,7 +54,7 @@ Golden Angle = π(3 − √5)
 This number is inspired by the Golden Ratio, one of the most famous numbers in the history of mathematics. Imagine that you have a circumference and you break up it into two arcs with lengths a and b, with a>b (an arc is a portion of the circumference). The angle that breaks the circle so that a/b=(a+b)/a is called the Golden Angle. In other words: the Golden Angle breaks up a circle so that the ratio of the big arc to the little arc is the Golden Ratio. This image (from Wikipedia) illustrates the previous definition:
 
 
-![](/Users/ibrahim_saidi/Desktop/GitHub Repositories/RPubs/Phyllotaxis_Draw Flowers Using Mathematics/datasets/Golden_Angle.png)
+![](Golden_Angle.png)
 
 The Golden Angle is the angle subtended by the smaller (red) arc. Both the Golden Ratio and the Golden Angle appear in unexpected places in nature. Apart of flower petals and plant leaves, you'll find them in seed heads, pine cones, sunflower seeds, shells, spiral galaxies, hurricanes, etc.
 
