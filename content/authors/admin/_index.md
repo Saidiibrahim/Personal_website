@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Research Assistant @ UniSA | Dataviz & Sport Analytics Enthusiast
+bio: R/Shiny Enthusiast
 education:
   courses:
   - course: Master of Biotechnology(Biomedical)
@@ -19,9 +19,9 @@ interests:
 - Database Design & Admin 
 
 organizations:
-- name: The University of South Australia
+- name: ""
   url: ""
-role: Research Assistant
+role: ""
 social:
 - icon: envelope
   icon_pack: fas
