@@ -13,10 +13,10 @@ education:
     
 email: ""
 interests:
-- Data Analysis
-- Data Visualisation
-- Sports Analytics
-- Database Design & Admin 
+- Data Science
+- Knowledge Sharing
+- Shiny
+- The R community
 
 organizations:
 - name: ""
@@ -48,6 +48,6 @@ user_groups:
 - Visitors
 ---
 
-I'm Ibrahim. I enjoy building user interfaces for technical computing, designing databases, analysing sports data :soccer:, and helping others succeed by sharing my knowledge. 
+Welcome to my personal site. I enjoy building [shiny](https://shiny.rstudio.com/gallery/) apps and helping others succeed by sharing my knowledge. 
 
 This site further details my [blog](/post) and [projects](/projects). Don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/ibrahim-saidi-782587181/) or by [email](#contact). :smiley:

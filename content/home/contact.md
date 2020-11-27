@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Hello there!"
-subtitle = "Contacting me about speaking engagements, opportunities to work together, or mentorship requests. "
+title = "Contact"
+subtitle = "Ibrahim.Saidi@unisa.edu.au"
 
 # Automatically link email and phone?
 autolink = true
