@@ -5,9 +5,8 @@ date: '2020-11-27'
 slug: drawing-flowers-using-mathematics
 tags:
   - ggplot
-  - R
   - Data Visualisation
-subtitle: ''
+subtitle: 'Use R to make art and create imaginary flowers inspired by nature.'
 summary: ''
 authors: []
 lastmod: '2020-11-27T13:27:40+10:30'
