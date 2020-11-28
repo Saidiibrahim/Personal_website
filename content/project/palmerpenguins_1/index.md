@@ -7,6 +7,6 @@ image:
 summary: A project I completed on datacamp. 
 tags:
 - R
-- software
+- datacamp
 title: Partnering to Protect You from Peril
 ---
