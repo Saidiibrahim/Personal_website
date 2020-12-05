@@ -3,7 +3,8 @@ title: Drawing Flowers Using Mathematics
 author: ''
 date: '2020-11-27'
 slug: drawing-flowers-using-mathematics
-tags:
+categories:
+  - R 
   - ggplot
   - Data Visualisation
 subtitle: 'Use R to make art and create imaginary flowers inspired by nature.'
@@ -24,8 +25,8 @@ projects: []
 <h2>Patterns in nature</h2>
 <p>“The scientist does not study nature because it is useful; he studies it because he delights in it, and he delights in it because it is beautiful.” (Henri Poincaré)</p>
 <p>There are many examples of natural facts that can be described in mathematical terms. Nice examples are the shape of snowflakes, the fractal geometry of romanesco broccoli or how self-similarity rules the growth of plants.</p>
-<p>R is a tool for doing serious analysis, but not everything in life is serious. Life is also funny, and R can be used to have fun and to do beautiful things. Its graphical power can be used to produce artistic images like the one that illustrates this section, which is inspired by how plants arrange their leaves. This fact is called phyllotaxis and will serve as the basis of this project.</p>
-<p>In this notebook, we are using the ggplot2 package. Apart from having fun, we will learn many important features of it that will be useful not only to do art but also to represent data in real-life problems. Let’s start by loading the library.</p>
+<p>R is a tool for doing serious analysis, but not everything in life is serious. Life is also funny, and R can be used to have fun and to do beautiful things. Its graphical power can be used to produce artistic images like the one that illustrates this section, which is inspired by how plants arrange their leaves. This fact is called phyllotaxis and will serve as the basis of this article.</p>
+<p>In this article, we are using the ggplot2 package. Apart from having fun, we will learn many important features of it that will be useful not only to do art but also to represent data in real-life problems. Let’s start by loading the library.</p>
 <pre class="r"><code># Set plot images to a nice size
 options(repr.plot.width = 4, repr.plot.height = 4)
 
@@ -65,12 +66,14 @@ p + geom_point()</code></pre>
 <div id="remove-everything-unnecessary" class="section level2">
 <h2>Remove everything unnecessary</h2>
 <p>Apart from data, a plot includes many other components that define its final appearance. Our previous plot contains:</p>
-<p>a background filled with grey color
-a grid of horizontal and vertical white lines
-ticks along the axis
-a title on each axis
-text along axes to label marks
-Art does not get along with most of these elements, so it’s time to move to action.</p>
+<ul>
+<li>a <strong>background</strong> filled with grey color</li>
+<li>a <strong>grid</strong> of horizontal and vertical white lines</li>
+<li><strong>ticks</strong> along the axis</li>
+<li>a <strong>title</strong> on each axis</li>
+<li><strong>text</strong> along axes to label marks</li>
+</ul>
+<p>Art does not get along with most of these elements, so it’s time to move to action.</p>
 <pre class="r"><code>df &lt;- data.frame(t, x, y)
 
 # Make a scatter plot of points in a spiral and remove some plot components
@@ -137,8 +140,8 @@ theme(legend.position = &quot;none&quot;,
 </div>
 <div id="all-together-now-imaginary-flowers" class="section level2">
 <h2>All together now: imaginary flowers</h2>
-<p>The techniques we’ve used so far allow us to create an infinite number of patterns inspired by nature: the only limit is our imaginations. But making art has also been a fun excuse to learn to use ggplot2. All the tricks we have seen in this notebook are useful when plotting real data too.</p>
-<p>The image on the left is a simple variation of the previous flower and is in essence very similar to the first figure in which we plotted 50 points in a circle. I hope you’ve enjoyed the journey between that simple circle and this beautiful flower.</p>
+<p>The techniques we’ve used so far allow us to create an infinite number of patterns inspired by nature: the only limit is our imaginations. But making art has also been a fun excuse to learn to use ggplot2. All the tricks we have seen in this article are useful when plotting real data too.</p>
+<p>The image below is a simple variation of the previous flower and is in essence very similar to the first figure in which we plotted 50 points in a circle. I hope you’ve enjoyed the journey between that simple circle and this beautiful flower. :smile:</p>
 <pre class="r"><code># Change the values of angle and points
 angle &lt;- 13*pi/180
 points &lt;- 2000

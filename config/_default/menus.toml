@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Medium"
-  url = "https://medium.com/@ibrahim.aka.ajax"
+  url = "https://ibrahimsaidi94.medium.com/"
   weight = 40
   
   [[main]]
@@ -26,6 +26,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
-    name = "About"
+    name = "Resume"
     url = "/resume"
     weight = 10
