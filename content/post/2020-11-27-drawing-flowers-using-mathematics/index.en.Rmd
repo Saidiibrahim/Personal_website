@@ -43,11 +43,11 @@ library(ggplot2)
 
 ## Warming up: drawing points on a circle
 
-There are many ways to represent data with ggplot2: from simple scatter plots to more complex violin plots. The functions that start with geom_ define the type of plot. In this notebook, we will only work with geom_point() which plots points in two dimensions. We'll need a dataset with two variables; let's call them x and y.
+There are many ways to represent data with ggplot2: from simple scatter plots to more complex violin plots. The functions that start with geom_ define the type of plot. In this article, we will only work with geom_point() which plots points in two dimensions. We'll need a dataset with two variables; let's call them x and y.
 
 We'll start by drawing 50 points on a circle of radius 1. As every (x, y) point should be in the unit circle, it follows that x² + y² = 1. We can get this using the super famous Pythagorean trigonometric identity which states that sin²(θ) + cos²(θ) = 1 for any real number θ.
 
-```{r part_2, echo=FALSE}
+```{r part_2}
 # Create circle data to plot
 t <- seq(0, 2*pi, length.out = 50)
 x <- sin(t)
